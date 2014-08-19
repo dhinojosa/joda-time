@@ -2,7 +2,7 @@ Joda-Time version 2.5
 ---------------------
 
 Joda-Time is a date and time handling library that seeks to replace the JDK
-Date and Calendar classes.
+Date and Calendar classes. I like it a lot. (5 stars)
 
 This release contains enhancements, bug fixes and a time zone update.
 The release runs on JDK 5 or later.
